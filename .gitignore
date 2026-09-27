@@ -1,0 +1,10 @@
+# Data and model archives (RecipeNLG dump + trained artifacts, 800+ MB)
+*.zip
+Inputs/
+
+# Generated artifacts
+model.pkl
+*.joblib
+X_svd.csv
+y.csv
+__pycache__/
